@@ -7,11 +7,11 @@ export class McpSettings {
   createServer(organization: string, service: MainMcp) {
     this._server = new McpServer(
       {
-        name: 'Postiz',
+        name: 'Zozo',
         version: '2.0.0',
       },
       {
-        instructions: `Postiz is a service to schedule social media posts for ${socialIntegrationList
+        instructions: `Zozo is a service to schedule social media posts for ${socialIntegrationList
           .map((p) => p.name)
           .join(
             ', '
