@@ -1,0 +1,12 @@
+
+<svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title {
+      font-family: "Times New Roman", "Georgia", serif;
+      font-size: 48px;
+      fill: #8e44ad;
+      font-weight: bold;
+    }
+  </style>
+  <text x="20" y="65" class="title">Emberthreads</text>
+</svg>
